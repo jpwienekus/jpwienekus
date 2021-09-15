@@ -2,4 +2,4 @@ Hi
 
 I am a senior software engineer from South Africa.
 I mainly work with c# as a backend stack and vue for frontend.
-In my free time i like to tinker with Home Assistant and other smart home project.
+In my free time i like to tinker with Home Assistant and other smart home projects.
