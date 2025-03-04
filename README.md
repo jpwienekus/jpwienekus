@@ -16,17 +16,9 @@ I'm a passionate software engineer with 10 years of experience building scalable
 ### Technical Skills
 
 ```
-Frontend: JavaScript, React, Vue, TypeScript, HTML/CSS
-Backend: Node.js, Python, Java, RESTful APIs, Microservices
-Database: SQL, MongoDB, PostgreSQL
+Frontend: JavaScript, React, Vue, Svelte, TypeScript
+Backend: Node.js, Python, Microservices, Ruby on Rails, C#
+Database: SQL, MongoDB, PostgreSQL, InfluxDB
 DevOps: Docker, Kubernetes, CI/CD, AWS
 Testing: Jest, Cypress, TDD methodologies
 ```
-
-### GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jpwienekus&show_icons=true&theme=radical)
-
----
-
-*"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." — John Woods*
