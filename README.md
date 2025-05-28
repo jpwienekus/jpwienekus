@@ -16,13 +16,3 @@ I'm a passionate software engineer with 10 years of experience building scalable
 ![jpwienekus's Stats](https://github-readme-stats.vercel.app/api?username=jpwienekus&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![jpwienekus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpwienekus&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-### Technical Skills
-
-```
-Frontend: JavaScript, React, Vue, Svelte, TypeScript
-Backend: Node.js, Python, Microservices, Ruby on Rails, C#
-Database: SQL, MongoDB, PostgreSQL, InfluxDB
-DevOps: Docker, Kubernetes, CI/CD, AWS
-Testing: Jest, Cypress, TDD methodologies
-```
