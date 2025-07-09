@@ -13,6 +13,6 @@ I'm a passionate software engineer with 10 years of experience building scalable
 - Mentoring developers and establishing engineering best practices
 - Collaborating across teams to deliver technical solutions aligned with business goals
 
-![jpwienekus's Stats](https://github-readme-stats.vercel.app/api?username=jpwienekus&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jpwienekus's Stats](https://github-readme-stats.vercel.app/api?username=jpwienekus&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
-![jpwienekus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpwienekus&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![jpwienekus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpwienekus&theme=monokai&show_icons=false&hide_border=true)
